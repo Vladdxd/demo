@@ -1,0 +1,92 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Introduction to React Native",
+      "description": "Learn the basics of React Native development.",
+      "content": "In this tutorial, you will get an introduction to React Native and its core concepts.",
+      "image": "https://images.pexels.com/photos/47547/squirrel-animal-cute-rodents-47547.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "author": "Vladxd"
+    },
+    {
+      "id": "2",
+      "title": "Building Responsive UIs with Flexbox",
+      "description": "Explore the power of Flexbox for building responsive user interfaces.",
+      "content": "Discover how to use Flexbox to create flexible and responsive layouts in your React Native apps.",
+      "image": "https://images.pexels.com/photos/1661179/pexels-photo-1661179.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "author": "Jane Smith"
+    },
+    {
+      "id": "3",
+      "title": "State Management in React Native",
+      "description": "Understand different state management techniques in React Native.",
+      "content": "Learn about state management patterns such as Redux and Context API for effective state handling.",
+      "image": "https://images.pexels.com/photos/67552/giraffe-tall-mammal-africa-67552.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "author": "Samuel Johnson"
+    },
+    {
+      "id": "4",
+      "title": "Navigation in React Native Apps",
+      "description": "Navigate through screens and manage navigation in your React Native applications.",
+      "content": "Explore different navigation libraries and techniques to create seamless navigation experiences.",
+      "image": "https://images.pexels.com/photos/3221163/pexels-photo-3221163.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "author": "Emily Brown"
+    },
+    {
+      "id": "5",
+      "title": "Working with APIs in React Native",
+      "description": "Connect your React Native app to external APIs and fetch data.",
+      "content": "Learn how to make API requests, handle responses, and integrate data into your mobile application.",
+      "image": "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "author": "Alex Turner"
+    },
+    {
+      "id": "6",
+      "title": "Animations in React Native",
+      "description": "Add smooth animations to your React Native projects.",
+      "content": "Discover the animation API in React Native and create engaging and interactive user interfaces.",
+      "image": "https://images.pexels.com/photos/909907/pexels-photo-909907.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "author": "Sophia Miller"
+    },
+    {
+      "id": "7",
+      "title": "Styling in React Native",
+      "description": "Master the art of styling components in React Native applications.",
+      "content": "Learn about styling techniques, theming, and responsive design for mobile applications.",
+      "image": "https://images.pexels.com/photos/10394784/pexels-photo-10394784.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "author": "William Davis"
+    },
+    {
+      "id": "8",
+      "title": "Forms and User Input in React Native",
+      "description": "Handle user input and create forms in your React Native apps.",
+      "content": "Explore form handling, validation, and user interaction in mobile applications.",
+      "image": "https://images.pexels.com/photos/8664302/pexels-photo-8664302.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "author": "Vladxd"
+    },
+    {
+      "id": "9",
+      "title": "Testing React Native Applications",
+      "description": "Ensure the reliability of your React Native apps with effective testing strategies.",
+      "content": "Learn about unit testing, integration testing, and end-to-end testing in the context of React Native development.",
+      "image": "https://images.pexels.com/photos/12243337/pexels-photo-12243337.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "author": "Daniel Green"
+    },
+    {
+      "id": "10",
+      "title": "Deployment and App Store Submission",
+      "description": "Prepare your React Native app for deployment and submission to app stores.",
+      "content": "Understand the steps involved in deploying your mobile app and getting it ready for distribution.",
+      "image": "https://images.pexels.com/photos/9334968/pexels-photo-9334968.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "author": "Vladxd"
+    },
+    {
+      "id": "11",
+      "title": "TEsest",
+      "content": "Tetstst",
+      "image": "https://media.wired.co.uk/photos/658475f1dba2c036375e5498/master/w_960,c_limit/hyundai-ioniq-5-n-debut-goodwood-2023-studio-exterior-03_jpg.jpg",
+      "description": "Description test",
+      "author": "Samuel Johnson"
+    }
+  ]
+}
